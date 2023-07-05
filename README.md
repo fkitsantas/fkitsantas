@@ -31,6 +31,6 @@ const fotis = {
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 Stats
 
 ![fkitsantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkitsantas&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkitsantas&layout=compact&bg_color=000000)
