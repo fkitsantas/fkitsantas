@@ -34,7 +34,7 @@ const fotios = {
         {C++: "Beginner"},
         {C#: "Intermediate"},
         {Python: "Beginner"}],
-  tools: [JUnit, Node, React, .Net, ASP.NET, XUnit.net, Jest, Docker],
+  tools: [JUnit, Node, React, Jest, .Net, ASP.NET, XUnit.net, Django, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   gameHacking: {
                         analysis: "Reverse Engineering of
