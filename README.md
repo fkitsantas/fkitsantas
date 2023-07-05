@@ -10,8 +10,21 @@
 
 ### A little more about me...  
 
+<!--  education: {
+    degrees: [{BSc: "Computing"}, {MSc: "Software Engineering"}],
+    institutions: ["The University of NORTHAMPTON", "City,University of London"],
+    years: ["2016 - 2019", "2022 - 2024"]
+  },
+  experience: [
+    {company: "BEASTS UNLEASHED LTD", role: "Software Engineer", years: "2018 - 2020"},
+    {company: "NIGHTMARE NETWORK LTD", role: "", years: "2020 - Present"}
+  ],
+  certifications: ["Certification A", "Certification B"], 
+  languages: ["English", "Greek"] -->
+  
 ```javascript
 const fotis = {
+  pronouns: ["he", "him"],
   code: [{Java: "Intermediate"},
         {Javascript: "Intermediate"},
         {Typescript: "Intermediate"},
