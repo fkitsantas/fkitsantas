@@ -12,7 +12,6 @@
 
 ```javascript
 const fotis = {
-  pronouns: "he" | "him",
   code: [{Java: "Intermediate"},
         {Javascript: "Intermediate"},
         {Typescript: "Intermediate"},
