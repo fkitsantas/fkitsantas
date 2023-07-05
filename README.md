@@ -1,6 +1,6 @@
-<h2> Hi, I'm Fotis! <img src="https://gifdb.com/images/high/waving-hand-black-and-white-erox5pacbap4ac1l.gif" width="30" /></h2>
+<h2> Hi, I'm Fotis! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30" /></h2>
 <img align='right' src="https://seeklogo.com/images/C/city-university-of-london-logo-63A9D5FB68-seeklogo.com.png" width="230">
-<p><em>🎓 Software Enginner at <a href="http://www.city.ac.uk/">City, University of London</a>
+<p><em>🎓 Software Engineer at <a href="http://www.city.ac.uk/">City, University of London</a>
 </br>Actively seeking new job opportunities in Software Development.💼</em></p>
 
 [![Twitter: fkitsantas](https://img.shields.io/twitter/follow/fkitsantas?style=social)](https://twitter.com/fkitsantas)
