@@ -1,5 +1,5 @@
 <h2> Hi, I'm Fotis! <img src="https://gifdb.com/images/high/waving-hand-black-and-white-erox5pacbap4ac1l.gif" width="30" /></h2>
-<img align='right' src="https://thisis.city.ac.uk/wp-content/uploads/2015/04/City-UoL-logo.png" width="230">
+<img align='right' src="https://seeklogo.com/images/C/city-university-of-london-logo-63A9D5FB68-seeklogo.com.png" width="230">
 <p><em>🎓 Software Enginner at <a href="http://www.city.ac.uk/">City, University of London</a>
 </br>Actively seeking new job opportunities in Software Development.💼</em></p>
 
