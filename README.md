@@ -37,7 +37,7 @@ const fotis = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   gameHacking: {
                         analysis: "Reverse Engineering of
-                        computer game application Clients",
+                        computer game Client applications",
                         exploitation: "Vulnerability Exploitation
                         via Windows Memory Injection"
                       },
