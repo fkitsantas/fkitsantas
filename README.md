@@ -22,7 +22,8 @@ const fotis = {
                         exploitation: "Vulnerability Exploitation
                         via Windows Memory Injection"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge
+             focused on React and TypeScript."
 }
 ```
 
