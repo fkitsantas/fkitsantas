@@ -53,4 +53,4 @@ const fotios = {
 
 ## 📈 Stats
 
-![fkitsantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkitsantas&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkitsantas&layout=compact&langs_count=8&bg_color=000000&hide=Twig,HTML,CSS)
+![fkitsantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkitsantas&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkitsantas&layout=compact&langs_count=8&bg_color=1A1B27&hide=Twig,HTML,CSS)
