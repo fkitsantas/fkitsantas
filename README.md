@@ -1,7 +1,7 @@
 <h2> Hi, I'm Fotis! <img src="https://gifdb.com/images/high/waving-hand-black-and-white-erox5pacbap4ac1l.gif" width="30" /></h2>
 <img align='right' src="https://thisis.city.ac.uk/wp-content/uploads/2015/04/City-UoL-logo.png" width="230">
 <p><em>🎓 Software Enginner at <a href="http://www.city.ac.uk/">City, University of London</a>
-</br>Actively seeking new job opportunities in Software Engineering.💼</em></p>
+</br>Actively seeking new job opportunities in Software Development.💼</em></p>
 
 [![Twitter: fkitsantas](https://img.shields.io/twitter/follow/fkitsantas?style=social)](https://twitter.com/fkitsantas)
 [![Linkedin: fkitsantas](https://img.shields.io/badge/-fkitsantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fkitsantas/)](https://www.linkedin.com/in/fkitsantas/)
