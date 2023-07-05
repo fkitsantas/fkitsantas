@@ -13,14 +13,14 @@
 ```javascript
 const fotis = {
   pronouns: "he" | "him",
-  code: [ Java: "Intermediate",
-          Javascript: "Intermediate",
-          Typescript: "Intermediate",
-          PHP: "Intermediate",
-          C: "Beginner",
-          C++: "Beginner",
-          C#: "Intermediate",
-          Python: "Beginner" ],
+  code: [{Java: "Intermediate"},
+        {Javascript: "Intermediate"},
+        {Typescript: "Intermediate"},
+        {PHP: "Intermediate"},
+        {C: "Beginner"},
+        {C++: "Beginner"},
+        {C#: "Intermediate"},
+        {Python: "Beginner"}],
   tools: [JUnit, Node, React, .Net, ASP.NET, XUnit.net, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   gameHacking: {
