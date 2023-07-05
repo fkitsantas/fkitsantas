@@ -16,11 +16,11 @@ const fotis = {
   code: [Java, Javascript, Typescript, PHP, C, C++, C#, Python],
   tools: [JUnit, Node, React, .Net, ASP.NET, XUnit.net, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  extracurriculars: {
-                        gameHacking: "Reverse Engineering analysis of online
-                        computer Game Application Clients & Vulnerability Exploitation",
-                        music: "Producing, Piano Playing",
-                        fitness: "Weightlifting / Natural Bodybuilding, Walking"
+  gameHacking: {
+                        analysis: "Reverse Engineering of
+                        computer game application Clients",
+                        exploitation: "Vulnerability Exploitation
+                        via Windows Memory Injection"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
