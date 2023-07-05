@@ -4,7 +4,7 @@
 </br>Actively seeking new job opportunities in Software Development.💼</em></p>
 
 [![Twitter: fkitsantas](https://img.shields.io/twitter/follow/fkitsantas?style=social)](https://twitter.com/fkitsantas)
-[![Linkedin: fkitsantas](https://img.shields.io/badge/-fkitsantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fkitsantas/)](https://www.linkedin.com/in/fkitsantas/)
+<!-- [![Linkedin: fkitsantas](https://img.shields.io/badge/-fkitsantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fkitsantas/)](https://www.linkedin.com/in/fkitsantas/) -->
 [![GitHub fkitsantas](https://img.shields.io/github/followers/fkitsantas?label=follow&style=social)](https://github.com/fkitsantas)
 
 
