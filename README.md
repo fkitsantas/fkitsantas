@@ -1,4 +1,4 @@
-<h2> Hi, I'm Fotis! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="22" /></h2>
+<h2> Hi, I'm Fotios Kitsantas! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="22" /></h2>
 <img align='right' src="https://seeklogo.com/images/C/city-university-of-london-logo-63A9D5FB68-seeklogo.com.png" width="230">
 <p><em>🎓 Software Engineer at <a href="http://www.city.ac.uk/">City, University of London</a>
 </br>Actively seeking new job opportunities in Software Development.💼</em></p>
@@ -23,7 +23,8 @@
   languages: ["English", "Greek"] -->
   
 ```javascript
-const fotis = {
+const fotios = {
+  preferred: "Fotis",
   pronouns: ["he", "him"],
   code: [{Java: "Intermediate"},
         {Javascript: "Intermediate"},
