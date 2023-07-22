@@ -31,6 +31,7 @@ const fotios = {
         {C: "Beginner"},
         {C++: "Beginner"},
         {C#: "Intermediate"},
+        {Rust: "Beginner"},
         {Python: "Beginner"}],
   tools: [JUnit, Node, React, Jest, .Net, ASP.NET, XUnit.net, Django, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
