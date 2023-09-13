@@ -1,7 +1,7 @@
 <h2> Hi, I'm Fotios Kitsantas! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="22" /></h2>
 <img align='right' src="https://seeklogo.com/images/C/city-university-of-london-logo-63A9D5FB68-seeklogo.com.png" width="230">
 <p><em>🎓 MSc in Software Engineering at <a href="http://www.city.ac.uk/">City, University of London</a>
-</br>Software Engineer @ <a href="https://www.capita.com/expertise/customer-communications-digital-services">Capita</a>💼</em></p>
+</br>💼 Software Engineer @ <a href="https://www.capita.com/expertise/customer-communications-digital-services">Capita</a></em></p>
 
 [![GitHub fkitsantas](https://img.shields.io/github/followers/fkitsantas?label=follow&style=social)](https://github.com/fkitsantas) <!-- [![Linkedin: fkitsantas](https://img.shields.io/badge/-fkitsantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fkitsantas/)](https://www.linkedin.com/in/fkitsantas/) --> [![Twitter: fkitsantas](https://img.shields.io/twitter/follow/fkitsantas?style=social)](https://twitter.com/fkitsantas)
 
