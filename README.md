@@ -27,7 +27,7 @@ const fotios = {
   pronouns: ["he", "him"],
   code: [{Java: "Intermediate"},
         {Javascript: "Intermediate"},
-        {Typescript: "Intermediate"},
+        {Typescript: "Beginner"},
         {PHP: "Intermediate"},
         {C: "Beginner"},
         {C++: "Intermediate"},
