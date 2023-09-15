@@ -42,7 +42,8 @@ const fotios = {
                         exploitation: "Vulnerability Exploitation
                         via Windows Memory Injection"
                       },
- challenge: "I’m happy to share that I’ve obtained a new certification: Foundational C# from @Microsoft !"
+ challenge: "I’m happy to share that I’ve obtained
+            a new certification: Foundational C# from Microsoft!"
 }
 ```
 
