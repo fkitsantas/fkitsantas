@@ -30,7 +30,7 @@ const fotios = {
         {Typescript: "Intermediate"},
         {PHP: "Intermediate"},
         {C: "Beginner"},
-        {C++: "Beginner"},
+        {C++: "Intermediate"},
         {C#: "Intermediate"},
         {Rust: "Beginner"},
         {Python: "Beginner"}],
@@ -42,8 +42,7 @@ const fotios = {
                         exploitation: "Vulnerability Exploitation
                         via Windows Memory Injection"
                       },
- challenge: "I am doing the #100DaysOfCode challenge
-             focused on React and TypeScript."
+ challenge: "I’m happy to share that I’ve obtained a new certification: Foundational C# from @Microsoft !"
 }
 ```
 
