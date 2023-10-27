@@ -29,7 +29,8 @@ var fotios = new
             },
             Tools = new List<string>
             {
-                "JUnit", "Node", "React", "Jest", ".Net", "ASP.NET", "XUnit.net", "Django", "Docker"
+                "JUnit", "Node", "React", "Jest", ".Net", "ASP.NET",
+                "XUnit.net", "Django", "Docker"
             },
             Architecture = new List<string>
             {
@@ -40,7 +41,8 @@ var fotios = new
                 Analysis = "Reverse Engineering of computer game Client applications",
                 Exploitation = "Vulnerability Exploitation via Windows Memory Injection"
             },
-            Challenge = "I’m happy to share that I’ve obtained a new certification: Foundational C# from Microsoft!"
+            Challenge = "I’m happy to share that I’ve obtained a
+                        new certification: Foundational C# from Microsoft!"
         };
 ```
 
