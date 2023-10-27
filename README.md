@@ -39,7 +39,7 @@ var fotios = new
             GameHacking = new
             {
                 Analysis = "Reverse Engineering of computer game Client applications",
-                Exploitation = "Vulnerability Exploitation via Windows Memory Injection"
+                Exploitation = "Vulnerability Exploitation via Memory Injection"
             },
             Challenge = "I’m happy to share that I’ve obtained a
                         new certification: Foundational C# from Microsoft!"
