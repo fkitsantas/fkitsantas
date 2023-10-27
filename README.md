@@ -11,7 +11,7 @@
 ### A little more about me...  
 
 ```csharp
-var fotios = new
+var fkitsantas = new
         {
             PreferredName = "Fotis",
             Pronouns = new List<string> { "he", "him" },
