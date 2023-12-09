@@ -17,13 +17,13 @@ var fkitsantas = new
             Pronouns = new List<string> { "he", "him" },
             CodingLanguages = new Dictionary<string, string>
             {
-                {"Java", "Intermediate"},
+                {"Java", "Expert"},
                 {"Javascript", "Intermediate"},
                 {"Typescript", "Beginner"},
                 {"PHP", "Intermediate"},
                 {"C", "Beginner"},
                 {"C++", "Intermediate"},
-                {"C#", "Intermediate"},
+                {"C#", "Expert"},
                 {"Rust", "Beginner"},
                 {"Python", "Beginner"}
             },
