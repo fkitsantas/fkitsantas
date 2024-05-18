@@ -1,6 +1,6 @@
 <h2> Hi, I'm Fotios Kitsantas! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="22" /></h2>
 <a href="http://www.city.ac.uk/" target="_blank"><img align='right' src="https://seeklogo.com/images/C/city-university-of-london-logo-63A9D5FB68-seeklogo.com.png" width="230"></a>
-<a href="https://www.capita.com/expertise/customer-communications-digital-services" target="_blank"><img align='right' src="https://government-ict.co.uk/wp-content/uploads/2021/12/capita-secondary-logo-72-dpi.png" width="200"></a>
+<a href="https://www.capita.com/expertise/customer-communications-digital-services" target="_blank"><img align='right' src="https://yt3.googleusercontent.com/ytc/AIdro_k45aeQmj08kqLh8pn1n5Z_blveAqIPPneFlAeMGWhMbfs=s900-c-k-c0x00ffffff-no-rj" width="200"></a>
 <p><em>🎓 MSc in Software Engineering at <a href="http://www.city.ac.uk/" target="_blank">City, University of London</a>
 </br>💼 Senior Software Engineer at <a href="https://www.capita.com/expertise/customer-communications-digital-services" target="_blank">Capita Plc</a>
 </br></br>Open to exploring new opportunities in Senior Software Engineering, particularly in remote roles. Always interested in discussing innovative projects and potential collaborations! 🙂</em></p>
@@ -14,7 +14,6 @@
 var fkitsantas = new
         {
             PreferredName = "Fotis",
-            Pronouns = new List<string> { "he", "him" },
             CodingLanguages = new Dictionary<string, string>
             {
                 {"Java", "Expert"},
@@ -29,7 +28,7 @@ var fkitsantas = new
             },
             Tools = new List<string>
             {
-                "JUnit", "Node", "React", "Jest", ".Net", "ASP.NET",
+                "JUnit", "Node", "React", "Jest", ".NET", "ASP.NET Core",
                 "XUnit.net", "Django", "Docker"
             },
             Architecture = new List<string>
