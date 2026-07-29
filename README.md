@@ -73,8 +73,9 @@ motto:        "Break it to understand it, then build it better."
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fkitsantas&show_icons=true&hide_border=true&theme=tokyonight&icon_color=8B5CF6&title_color=8B5CF6&ring_color=EC4899" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkitsantas&layout=compact&hide_border=true&theme=tokyonight&title_color=8B5CF6&langs_count=8" alt="Top Languages" />
+<!-- Self-hosted github-readme-stats instance (avoids public-instance rate limiting). -->
+<img height="170" src="https://github-stats-extended-frontend-chi.vercel.app/api?username=fkitsantas&show_icons=true&hide_border=true&theme=tokyonight&icon_color=8B5CF6&title_color=8B5CF6&ring_color=EC4899" alt="GitHub Stats" />
+<img height="170" src="https://github-stats-extended-frontend-chi.vercel.app/api/top-langs/?username=fkitsantas&layout=compact&hide_border=true&theme=tokyonight&title_color=8B5CF6&langs_count=8" alt="Top Languages" />
 
 <br/>
 
@@ -92,10 +93,6 @@ motto:        "Break it to understand it, then build it better."
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fkitsantas/fkitsantas/output/github-snake.svg" />
   <img width="90%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/fkitsantas/fkitsantas/output/github-snake.svg" />
 </picture>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=fkitsantas&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
