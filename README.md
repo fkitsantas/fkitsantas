@@ -1,17 +1,17 @@
 <!-- ═══════════════════════════════  HEADER BANNER  ═══════════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Fotis%20Kitsantas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Reverse%20Engineer%20%C2%B7%20Game%20Hacker&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:3B82F6,100:38BDF8&height=200&section=header&text=Fotis%20Kitsantas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Reverse%20Engineer%20%C2%B7%20Game%20Hacker&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 
 <!-- Typing animation -->
 <a href="https://github.com/fkitsantas">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+with+C%23+%2F+.NET+%26+Java;Microservices+%26+Event-Driven+Architecture;Reverse+Engineering+Game+Clients;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+with+C%23+%2F+.NET+%26+Java;Microservices+%26+Event-Driven+Architecture;Reverse+Engineering+Game+Clients;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Social badges -->
 <p>
   <a href="https://github.com/fkitsantas">
-    <img src="https://img.shields.io/github/followers/fkitsantas?label=Follow&style=for-the-badge&color=8B5CF6&labelColor=0d1117&logo=github" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/fkitsantas?label=Follow&style=for-the-badge&color=3B82F6&labelColor=0d1117&logo=github" alt="GitHub followers" />
   </a>
   <a href="https://twitter.com/fkitsantas">
     <img src="https://img.shields.io/badge/-@fkitsantas-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X" />
@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/fkitsantas/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=fkitsantas&label=Profile+views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=fkitsantas&label=Profile+views&color=3B82F6&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
@@ -74,16 +74,16 @@ motto:        "Break it to understand it, then build it better."
 <div align="center">
 
 <!-- Self-hosted github-readme-stats instance (avoids public-instance rate limiting). -->
-<img height="170" src="https://github-stats-extended-frontend-chi.vercel.app/api?username=fkitsantas&show_icons=true&hide_border=true&theme=tokyonight&icon_color=8B5CF6&title_color=8B5CF6&ring_color=EC4899" alt="GitHub Stats" />
-<img height="170" src="https://github-stats-extended-frontend-chi.vercel.app/api/top-langs/?username=fkitsantas&layout=compact&hide_border=true&theme=tokyonight&title_color=8B5CF6&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-stats-extended-frontend-chi.vercel.app/api?username=fkitsantas&show_icons=true&hide_border=true&theme=tokyonight&icon_color=3B82F6&title_color=3B82F6&ring_color=38BDF8" alt="GitHub Stats" />
+<img height="170" src="https://github-stats-extended-frontend-chi.vercel.app/api/top-langs/?username=fkitsantas&layout=compact&hide_border=true&theme=tokyonight&title_color=3B82F6&langs_count=8" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fkitsantas&hide_border=true&theme=tokyonight&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fkitsantas&hide_border=true&theme=tokyonight&ring=3B82F6&fire=38BDF8&currStreakLabel=3B82F6" alt="GitHub Streak" />
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=fkitsantas&hide_border=true&bg_color=0d1117&color=8B5CF6&line=EC4899&point=ffffff&area=true&area_color=6366F1" alt="Activity Graph" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=fkitsantas&hide_border=true&bg_color=0d1117&color=3B82F6&line=38BDF8&point=ffffff&area=true&area_color=1D4ED8" alt="Activity Graph" />
 
 <br/>
 
@@ -103,6 +103,6 @@ motto:        "Break it to understand it, then build it better."
 
 <em>I enjoy expanding my professional network — if you'd like to connect, I'd be glad to.</em>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:3B82F6,100:1D4ED8&height=120&section=footer" alt="footer" />
 
 </div>
